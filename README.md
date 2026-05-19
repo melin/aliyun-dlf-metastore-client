@@ -8,12 +8,12 @@ mvn clean deploy -Pdeploy
 <dependency>
     <groupId>com.github.melin</groupId>
     <module>metastore-client-hive3</module>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 
 <dependency>
     <groupId>com.github.melin</groupId>
     <module>metastore-client-hive2</module>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```

@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.github.melin</groupId>
         <artifactId>aliyun-dlf-metastore-client</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </parent>
     <name>metastore-client-hive3</name>
     <artifactId>metastore-client-hive3</artifactId>
